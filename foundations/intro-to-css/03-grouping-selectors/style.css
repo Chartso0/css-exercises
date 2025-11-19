@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.click,
+.fancy {
+  font-family: Helvetica, sans-serif. "Times New Roman";
+  font-size: 28px;
+}
+
+.click {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
